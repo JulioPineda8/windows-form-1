@@ -1,0 +1,16 @@
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\bin\Debug\net8.0-windows\ConsumoCombustible.exe
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\bin\Debug\net8.0-windows\ConsumoCombustible.deps.json
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\bin\Debug\net8.0-windows\ConsumoCombustible.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\bin\Debug\net8.0-windows\ConsumoCombustible.dll
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\bin\Debug\net8.0-windows\ConsumoCombustible.pdb
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.Form1.resources
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.csproj.GenerateResource.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.dll
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\refint\ConsumoCombustible.dll
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.pdb
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ConsumoCombustible.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\ConsumoCombustible\ConsumoCombustible\obj\Debug\net8.0-windows\ref\ConsumoCombustible.dll

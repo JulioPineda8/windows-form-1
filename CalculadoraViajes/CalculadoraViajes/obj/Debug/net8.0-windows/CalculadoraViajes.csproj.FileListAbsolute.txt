@@ -1,0 +1,16 @@
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\bin\Debug\net8.0-windows\CalculadoraViajes.exe
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\bin\Debug\net8.0-windows\CalculadoraViajes.deps.json
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\bin\Debug\net8.0-windows\CalculadoraViajes.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\bin\Debug\net8.0-windows\CalculadoraViajes.dll
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\bin\Debug\net8.0-windows\CalculadoraViajes.pdb
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.Form1.resources
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.csproj.GenerateResource.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.dll
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\refint\CalculadoraViajes.dll
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.pdb
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\CalculadoraViajes.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\WindowsForms1PrograI\CalculadoraViajes\CalculadoraViajes\obj\Debug\net8.0-windows\ref\CalculadoraViajes.dll
